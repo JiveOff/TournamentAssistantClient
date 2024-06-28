@@ -1,1 +1,1 @@
-export const TAClientVersion = 78;
+export const TAClientVersion = 79;
